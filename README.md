@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlazeCentral - I'm an electrical engineering penultimate student at UQ.
+- 👋 Hi, I’m @BlazeCentral - I'm an electrical engineering 3rd Year Pre-Penultimate student at UQ.
 - 👀 I’m interested in robotics, AI, systems engineering engineering design, and innovation
 - 🌱 I’m currently learning AI engineering, mine planning and finance related data science
 - 📫 Proffessional Enquiries - blaise.del.engineer@outlook.com (Hire me!)
