@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlazeCentral - I'm an electrical engineering penultimate student at UQ.
 - 👀 I’m interested in robotics, AI, systems engineering engineering design, and innovation
-- 🌱 I’m currently learning AI engineering, and finance related data science
+- 🌱 I’m currently learning AI engineering, mine planning and finance related data science
 - 📫 How to reach me - @blaise_delforce & blaise.delforce@outlook.com (Hire me!)
   
 <!---
